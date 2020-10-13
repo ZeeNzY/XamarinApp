@@ -26,5 +26,10 @@ namespace XamarinApp
             count--;
             CounterLabel.Text = count.ToString();
         }
+
+        private async void Proceed_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Login());
+        }
     }
 }

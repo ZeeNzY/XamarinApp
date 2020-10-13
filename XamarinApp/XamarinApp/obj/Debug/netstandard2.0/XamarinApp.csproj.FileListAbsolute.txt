@@ -13,3 +13,5 @@ C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstand
 C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\ref\XamarinApp.dll
 C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.pdb
 C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\styles.css.g.cs
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\Login.xaml.g.cs

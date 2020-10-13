@@ -20,6 +20,9 @@
         <Button Clicked="DecrementCounter"
                 Text="Decrement"/>
 
+        <Button Clicked="Proceed_Clicked"
+                Text="Proceed"/>
+        
     </StackLayout>
 
 </ContentPage>

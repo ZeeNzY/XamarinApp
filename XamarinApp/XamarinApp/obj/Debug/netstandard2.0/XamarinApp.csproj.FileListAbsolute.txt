@@ -13,3 +13,6 @@ C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstand
 C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\styles.css.g.cs
 C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\Home.xaml.g.cs
 C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.csproj.CoreCompileInputs.cache
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WmzdY0nDDcIc5kALpLONDEz8arhqKIELHpehMuOo2wgnLq795HNhdxgpyREOrm5qgz+vWO0ZnrLpcP9+m+yF4A==",
+  "dgSpecHash": "qUEGqYRnWnNf+QsfDDr38XfGggMjoay2VQSX7fPzCGLjFl3iEP3q2+Z6NxMdn15tKEQruRH+hT5/2tHRmeGwbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ZeeNzY\\source\\repos\\XamarinApp\\XamarinApp\\XamarinApp.iOS\\XamarinApp.iOS.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,7 @@
     "C:\\Users\\ZeeNzY\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\ZeeNzY\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.forms\\4.8.0.1534\\xamarin.forms.4.8.0.1534.nupkg.sha512"
   ],
   "logs": []
 }

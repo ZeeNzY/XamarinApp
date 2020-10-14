@@ -2,6 +2,7 @@ cometchatbindingapp
 CometChatUIBinding
 Flurry.Analytics.Android
 FormsViewGroup
+SQLitePCLRaw.lib.e_sqlite3.android
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Core.Runtime
 Xamarin.Android.Arch.Lifecycle.Common
@@ -55,4 +56,3 @@ Xamarin.Forms.Platform
 Xamarin.GooglePlayServices.Base
 Xamarin.GooglePlayServices.Basement
 Xamarin.GooglePlayServices.Tasks
-SQLitePCLRaw.lib.e_sqlite3.android

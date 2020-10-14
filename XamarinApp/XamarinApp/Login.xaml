@@ -11,8 +11,10 @@
                 HorizontalOptions="CenterAndExpand" />
 
 
-            <Entry Placeholder="UserName"/>
-            <Entry Placeholder="Password"/>
+            <Entry x:Name="Username" 
+                   Placeholder="UserName"/>
+            <Entry x:Name="Password" 
+                   Placeholder="Password"/>
             <Button Margin="30" 
                     Text="go"
                     Clicked="Button_Clicked"/>

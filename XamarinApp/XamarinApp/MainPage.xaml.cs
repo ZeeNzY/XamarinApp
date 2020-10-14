@@ -29,7 +29,7 @@ namespace XamarinApp
 
         private async void Proceed_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Login());
+            await Navigation.PushAsync(new Register());
         }
     }
 }

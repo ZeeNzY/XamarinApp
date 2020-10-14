@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Vn6fxsvu6gllA2goN5z58EXSAS3O8OQczKeY1tDROtywnWtxwi2/GN90SEnGl0dHNeQNInK2Ka6cp+UJ3HbrjA==",
+  "dgSpecHash": "piOcu5wtLGWSDVD7jlk0ZzkOozOdq+3i4ZTmomcCZH4GfR5rfGK8HSn6ySKqz3SPH8oCe/zDuCZkgcCgAXRzHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ZeeNzY\\source\\repos\\XamarinApp\\XamarinApp\\XamarinApp.Android\\XamarinApp.Android.csproj",
   "expectedPackageFiles": [
@@ -65,7 +65,7 @@
     "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.firebase.database.connection\\60.1142.1\\xamarin.firebase.database.connection.60.1142.1.nupkg.sha512",
     "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.firebase.iid\\60.1142.1\\xamarin.firebase.iid.60.1142.1.nupkg.sha512",
     "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.firebase.messaging\\60.1142.1\\xamarin.firebase.messaging.60.1142.1.nupkg.sha512",
-    "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.forms\\4.8.0.1534\\xamarin.forms.4.8.0.1534.nupkg.sha512",
     "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.googleplayservices.base\\60.1142.1\\xamarin.googleplayservices.base.60.1142.1.nupkg.sha512",
     "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.googleplayservices.basement\\60.1142.1\\xamarin.googleplayservices.basement.60.1142.1.nupkg.sha512",
     "C:\\Users\\ZeeNzY\\.nuget\\packages\\xamarin.googleplayservices.tasks\\60.1142.1\\xamarin.googleplayservices.tasks.60.1142.1.nupkg.sha512"

@@ -552,3 +552,11 @@ C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\
 C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\src\mono\com\inscripts\mapping\RecentlyUsedEmoji_RefreshGridViewAdapterListenerImplementor.java
 C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\src\mono\com\inscripts\mapping\RecentlyUsedStickers_RefreshGridViewAdapterListenerImplementor.java
 C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\bin\classes2.dex
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\assets\System.Buffers.dll
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\assets\System.Memory.dll
+C:\Users\ZeeNzY\source\repos\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll

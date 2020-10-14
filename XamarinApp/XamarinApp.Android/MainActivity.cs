@@ -6,6 +6,8 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Android.Text.Style;
+using System.IO;
 
 namespace XamarinApp.Droid
 {
@@ -21,7 +23,11 @@ namespace XamarinApp.Droid
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
-            LoadApplication(new App());
+
+            string FileName = "login_db";
+            string FolderPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+            string CompletePath = Path.Combine(FolderPath, FileName);
+            LoadApplication(new App(CompletePath));
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {

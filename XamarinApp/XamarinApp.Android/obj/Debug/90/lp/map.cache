@@ -55,3 +55,4 @@ Xamarin.Forms.Platform
 Xamarin.GooglePlayServices.Base
 Xamarin.GooglePlayServices.Basement
 Xamarin.GooglePlayServices.Tasks
+SQLitePCLRaw.lib.e_sqlite3.android
